@@ -1,11 +1,11 @@
 # covid19
-Covid-19 Surveillance Supplementary Material
+<h1>Covid-19 Surveillance Supplementary Material</h1>
 
-This is supplementary material in support of the Africa Health Research Institute (AHRI) Covid-19 Protocol published in Wellcome Open Research.
-Reference: <<to be provided>>
+<p>This is supplementary material in support of the Africa Health Research Institute (AHRI) Covid-19 Protocol published in Wellcome Open Research.</p>
+<p>Reference: <<to be provided>></p>
 
-Suppl Mat 1.docx: Supplementary Material 1: Criteria for PUI – NICD – 9 April 2020
-Suppl Mat 1.docx: Supplementary Material 2: Questionnaires
-Suppl Mat 1.docx: Supplementary Material 3: Standard Operating Procedures
-Suppl Mat 1.docx: Supplementary Material 4: Clinical Risk Assessment
-Suppl Mat 1.docx: Supplementary Material 5: Consents
+<p>Suppl Mat 1.docx: Supplementary Material 1: Criteria for PUI – NICD – 9 April 2020</p>
+<p>Suppl Mat 1.docx: Supplementary Material 2: Questionnaires</p>
+<p>Suppl Mat 1.docx: Supplementary Material 3: Standard Operating Procedures</p>
+<p>Suppl Mat 1.docx: Supplementary Material 4: Clinical Risk Assessment</p>
+<p>Suppl Mat 1.docx: Supplementary Material 5: Consents</p>
